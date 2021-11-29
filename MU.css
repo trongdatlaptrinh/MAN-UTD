@@ -1,0 +1,80 @@
+<style>*{
+    margin:0px;
+    padding: 0px;
+        }
+        body{
+
+            font-family: Arial, Helvetica, sans-serif;
+            background-position: top;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            background-image:url(https://recmiennam.com/wp-content/uploads/2018/02/hinh-nen-manchester-united-16.jpg) ;
+            height:100%;
+            letter-spacing: 0.02em;
+            font-weight: 500px;
+            -webkit-font-smoothing:antialiased;
+
+}
+        ul li{
+            list-style: none;
+
+        }
+        #wrapper
+        {
+            width: 950px auto;
+            margin: 0px auto;
+        }
+        #header
+        {
+            border-bottom: 1px solid blueviolet;
+            padding: 10px 0px;
+        }
+        #logo
+        {
+            float: left;
+            height: 50%;
+        }
+        #img
+        {    
+            float: left;
+            padding: 100px;
+            margin-top: 50px;
+            margin-left: 250px;
+
+            border-radius: 50% ;
+            position: relative;
+            height: 50;
+            width: auto;
+            top: -100px;
+            left: -50rem;
+        }
+        img{
+            display: block;
+            max-width: 250px;
+            max-height: 250px;
+            width: auto;
+            height: auto;
+        }
+        ul #main-menu li
+        { 
+            float: right;}
+        ul #main-menu li a{
+            float: right;
+            padding: 10px auto;
+            text-decoration: none;
+            left: 500px;}
+        .anhcr7{
+            float: right;
+            margin: auto
+            top:-100px;} 
+        .main-menu{
+            position: relative;
+            left: 950px;
+            top: -200px;
+            color: #ee82ee;
+        }
+
+
+
+</style>
